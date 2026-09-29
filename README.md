@@ -1,141 +1,98 @@
 <div align="center">
 
-# DANIDEV
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:0f172a,100:2563eb&text=DANIDEV&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Daniel%20Coronado%20%E2%80%A2%20Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=60&descSize=17&animation=fadeIn" alt="DANIDEV - Daniel Coronado" />
 
-### Daniel Coronado
+### 👋 Hola, soy Daniel Coronado
 
-**Software Engineer · Full-Stack Developer**
+**Ingeniero en Informática · Universidad de Las Américas**
 
-🎓 Ingeniero en Informática · Universidad de Las Américas
+Construyo soluciones **web, móviles y backend**, desde la interfaz hasta la base de datos.
 
-`Web` · `Mobile` · `Backend` · `Databases` · `Cloud` · `Automation`
-
-> Transformando ideas en soluciones de software.
+[![GitHub](https://img.shields.io/badge/GitHub-Daniel19778-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daniel19778)
+![Profile Views](https://komarev.com/ghpvc/?username=Daniel19778&style=for-the-badge&color=2563eb)
 
 </div>
 
 ---
 
-## 👋 Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy **Ingeniero en Informática**, titulado de la **Universidad de Las Américas**, enfocado en el desarrollo de soluciones de software modernas, escalables y orientadas a resolver problemas reales.
+Soy **Ingeniero en Informática**, titulado de la **Universidad de Las Américas**, con enfoque en desarrollo **Full Stack**, aplicaciones móviles, APIs REST y soluciones basadas en datos.
 
-Trabajo en desarrollo **Full Stack**, aplicaciones web y móviles, backend, APIs REST y gestión de bases de datos.
+Me interesa transformar necesidades reales en software claro, mantenible y útil, aplicando buenas prácticas de desarrollo y una arquitectura que permita que los proyectos crezcan de forma ordenada.
 
-Me apasiona la tecnología, la arquitectura de software, el aprendizaje continuo y la creación de soluciones que generen un impacto real.
+- 🌐 Desarrollo de aplicaciones web Full Stack
+- 📱 Desarrollo móvil con **React Native**
+- ⚙️ Backend, servicios y **APIs REST**
+- 🗄️ Modelado y gestión de bases de datos relacionales
+- 🐍 Desarrollo y automatización con **Python**
+- 🏗️ Arquitectura de software y mejora continua
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🧰 Tech Stack
+
+<div align="center">
 
 ### Lenguajes
+<img src="https://skillicons.dev/icons?i=js,java,python&theme=dark" alt="JavaScript, Java y Python" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,java,python" />
-</p>
+### Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" alt="React, HTML, CSS, Tailwind y Vite" />
 
-`JavaScript` · `Java` · `Python`
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
-
-`React` · `HTML5` · `CSS3` · `Tailwind CSS` · `Vite`
-
-### 📱 Mobile
-
-<p>
-<img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-`React Native`
+**React Native**
 
 ### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js y Express" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+### Bases de datos & Cloud
+<img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" alt="PostgreSQL y Supabase" />
 
-`Node.js` · `Express` · `REST APIs`
-
-### Bases de Datos
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,supabase" />
-</p>
-
-`SQL Server` · `PostgreSQL` · `Supabase`
+**SQL Server · PostgreSQL · Supabase**
 
 ### Herramientas
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" alt="Git, GitHub, VS Code, Postman y NPM" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
-
-`Git` · `GitHub` · `VS Code` · `Postman` · `NPM`
-
----
-
-## 🎯 Actualmente
-
-- 🚀 Desarrollando proyectos para fortalecer mi portafolio profesional.
-- 📱 Profundizando en desarrollo móvil con **React Native**.
-- 🏗️ Mejorando mis conocimientos en arquitectura de software.
-- 🗄️ Trabajando con bases de datos relacionales y servicios cloud.
-- 🐍 Desarrollando soluciones y automatizaciones con **Python**.
-- 📚 Explorando nuevas tecnologías y buenas prácticas.
+</div>
 
 ---
 
 ## 🚀 Proyectos
 
-Estoy preparando y documentando mis proyectos para publicarlos progresivamente en GitHub.
+Estoy incorporando progresivamente proyectos a este perfil. Cada repositorio destacado incluirá documentación, stack utilizado, instrucciones de ejecución y capturas cuando corresponda.
 
-Mis principales áreas de desarrollo son:
-
-🌐 **Full Stack Applications**
-
-📱 **Mobile Applications**
-
-⚙️ **REST APIs & Backend**
-
-🐍 **Python & Automation**
-
-☕ **Java Development**
-
-🗄️ **Database Solutions**
+> **Próximo objetivo del perfil:** publicar proyectos representativos de desarrollo Full Stack, Mobile, Java y Python en lugar de llenar esta sección con ejemplos ficticios.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Daniel19778&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Daniel19778&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub de Daniel19778" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel19778&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes más utilizados por Daniel19778" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel19778&layout=compact&theme=github_dark&hide_border=true" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Daniel19778&theme=github-dark-blue&hide_border=true&locale=es" alt="Racha de contribuciones de Daniel19778" />
 
 </div>
 
 ---
 
-## 🔥 Racha de contribuciones
+## 🎯 En qué estoy trabajando
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Daniel19778&theme=github-dark-blue&hide_border=true" />
-
-</div>
+Actualmente estoy fortaleciendo mi portafolio con proyectos que integren **React, React Native, Node.js, Java, Python, SQL Server, PostgreSQL y Supabase**, además de seguir profundizando en arquitectura de software, seguridad, APIs y buenas prácticas de ingeniería.
 
 ---
 
-## 🤝 Conecta conmigo
+## 🤝 Contacto
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Daniel19778-181717?style=for-the-badge&logo=github)](https://github.com/Daniel19778)
+¿Quieres conversar sobre desarrollo, colaborar en un proyecto o conocer mi trabajo?
+
+[![GitHub](https://img.shields.io/badge/GitHub-Daniel19778-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daniel19778)
 
 </div>
 
@@ -143,12 +100,12 @@ Mis principales áreas de desarrollo son:
 
 <div align="center">
 
-### 💻 DANIDEV
+### DANIDEV
 
 **Software Engineering · Full-Stack Development**
 
-> "La tecnología es más poderosa cuando se usa para resolver problemas reales."
+`Build · Learn · Improve · Repeat`
 
-**Build · Learn · Improve · Repeat**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,50:0f172a,100:2563eb" alt="" />
 
 </div>
